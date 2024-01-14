@@ -1,0 +1,14 @@
+/* おみくじ */
+.omikuji {
+    width: 240px;
+    height: 240px;
+    background-color: mediumturquoise;
+    margin: 30px auto;
+    text-align: center;
+    line-height: 240px;
+    /* 行間　heightと同じpxにすると上下位置の中央にくる  */
+    font-size: 32px;
+    font-weight: bold;
+    color: #fff;
+    user-select: none;
+}
